@@ -32,9 +32,9 @@ updated 2018-12-06
  - [bug no capital versions]
 updated 2018-12-08
  - automatic creation of .ahk via a node.js program
- - added alt+A ->
- - added alt+E ->
- - added alt+I ->
- - added alt+O ->
- - added alt+U ->
- - added alt+N ->
+ - added alt+A -> Á
+ - added alt+E -> É
+ - added alt+I -> Í
+ - added alt+O -> Ó
+ - added alt+U -> Ú
+ - added alt+N -> Ñ
