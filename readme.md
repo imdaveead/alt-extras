@@ -29,8 +29,6 @@ updated 2018-12-06
  - added alt+e -> é
  - added alt+o -> ó (replaced)
  - added alt+u -> ú
- - added alt+? -> ¿
- - added alt+! -> ¡
  - [bug no capital versions]
 
 updated 2018-12-08
@@ -41,3 +39,13 @@ updated 2018-12-08
  - added alt+O -> Ó
  - added alt+U -> Ú
  - added alt+N -> Ñ
+
+updated 2019-01-29
+ - changed alt+s to alt+z ✨
+ - added alt+p -> ¶
+ - added alt+s -> §
+ - added alt+m -> ♪
+ - added alt+shift+m -> ♫
+ - added alt+ctrl+m -> ♬
+ - added alt+? -> ¿
+ - added alt+! -> ¡
